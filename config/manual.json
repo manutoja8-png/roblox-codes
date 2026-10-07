@@ -1,0 +1,7 @@
+{
+  "_example-game-slug": {
+    "add": [{ "code": "EXAMPLECODE", "reward": "500 Gems" }],
+    "expire": ["OLDCODE"],
+    "remove": ["FALSEPOSITIVE"]
+  }
+}

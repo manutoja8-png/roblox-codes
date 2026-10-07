@@ -1,0 +1,13 @@
+{
+  "name": "roblox-codes",
+  "private": true,
+  "type": "module",
+  "description": "Self-updating Roblox codes site (EN + ES)",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

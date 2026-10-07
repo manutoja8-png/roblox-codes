@@ -1,0 +1,16 @@
+{
+  "maxDiscovered": 120,
+  "sorts": ["top-playing-now", "top-trending", "up-and-coming", "top-revisited"],
+  "pinned": [
+    { "placeId": 2753915549, "wiki": "blox-fruits" },
+    { "placeId": 16732694052, "wiki": "fisch" },
+    { "placeId": 1537690962, "wiki": "bee-swarm-simulator" },
+    { "placeId": 142823291, "wiki": "murder-mystery-2" },
+    { "placeId": 17017769292 },
+    { "placeId": 126884695634066 },
+    { "placeId": 8737899170 },
+    { "placeId": 16146832113 },
+    { "placeId": 116495829188952 },
+    { "placeId": 17625359962 }
+  ]
+}
