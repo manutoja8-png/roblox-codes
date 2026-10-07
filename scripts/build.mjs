@@ -55,6 +55,7 @@ function layout({ lang, title, desc, path, alt, body, jsonld = [] }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
+${site.googleVerification ? `<meta name="google-site-verification" content="${esc(site.googleVerification)}">` : ''}
 <link rel="canonical" href="${abs(path)}">
 ${alternates}
 <meta property="og:type" content="website">
